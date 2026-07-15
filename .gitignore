@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+*.env
+
+# Future cloud credentials
+credentials.json
+secrets.json
+
+# Future ML model files
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.log

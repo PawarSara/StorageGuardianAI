@@ -1,0 +1,3 @@
+duplicate_group_id,file_path,context_score,modification_count,project_files_found,decision
+1,test_storage\ML_Project\dataset.csv,70,6,2,KEEP
+1,test_storage\dataset.csv,15,3,0,REDUNDANT_CANDIDATE

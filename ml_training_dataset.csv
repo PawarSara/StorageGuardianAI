@@ -1,0 +1,11 @@
+file_id,size_bytes,extension,file_age_days,days_since_modified,modification_count,recent_activity_count,is_duplicate,duplicate_count,folder_type,project_score,recent_project_files,is_active_project,local_relevance_label
+cf5c0a82-65fb-5efe-9805-9c81d4c2fe26,10485760,.zip,0,240,0,0,0,0,DESKTOP,0,0,0,LOW
+204d031e-4060-53fa-bb40-3b84823fd6cb,1048576,.pdf,0,180,0,0,0,0,DOCUMENTS,0,0,0,MEDIUM
+2e87b240-4b8e-50b3-9ed6-f9b727a21cce,2097152,.csv,0,300,0,0,1,2,DOWNLOADS,0,0,0,LOW
+02eb1ec9-d484-5e55-b8b2-e1a35eb4aa41,2097152,.csv,0,250,0,0,0,0,DOWNLOADS,0,0,0,LOW
+70c656b5-f94c-598b-a0c1-f8a268169180,1048576,.py,0,2,3,3,0,0,PROJECT_LIKE,20,5,1,HIGH
+bbd73c61-30fb-5690-8d52-936c9b5ac588,2097152,.csv,0,3,6,6,1,2,PROJECT_LIKE,20,5,1,HIGH
+521ad1d9-3f65-5f47-8ba8-3c0de2ac0713,1048576,.ipynb,0,0,6,6,0,0,PROJECT_LIKE,20,5,1,HIGH
+e7f05caa-9486-5e5a-a59e-ae5abffc1aea,1048576,.docx,0,5,3,3,0,0,GENERAL,20,5,1,HIGH
+07b7e906-cdc1-5b12-a1bd-6486fd1d0887,1048576,.txt,0,7,3,3,0,0,GENERAL,20,5,1,HIGH
+114c1fc2-1a81-5806-824b-907491c65f81,20971520,.mp4,0,500,0,0,0,0,VIDEOS,0,0,0,LOW

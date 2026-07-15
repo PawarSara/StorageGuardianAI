@@ -1,0 +1,11 @@
+file_id,file_name,file_path,size_bytes,extension,file_age_days,days_since_modified,modification_count,recent_activity_count,is_duplicate,duplicate_count,duplicate_group_id,folder_type
+cf5c0a82-65fb-5efe-9805-9c81d4c2fe26,old_project.zip,test_storage\Desktop\old_project.zip,10485760,.zip,0,240,0,0,0,0,,DESKTOP
+204d031e-4060-53fa-bb40-3b84823fd6cb,resume_old.pdf,test_storage\Documents\resume_old.pdf,1048576,.pdf,0,180,0,0,0,0,,DOCUMENTS
+2e87b240-4b8e-50b3-9ed6-f9b727a21cce,dataset.csv,test_storage\Downloads\dataset.csv,2097152,.csv,0,300,0,0,1,2,1,DOWNLOADS
+02eb1ec9-d484-5e55-b8b2-e1a35eb4aa41,dataset_copy.csv,test_storage\Downloads\dataset_copy.csv,2097152,.csv,0,250,0,0,0,0,,DOWNLOADS
+70c656b5-f94c-598b-a0c1-f8a268169180,app.py,test_storage\ML_Project\app.py,1048576,.py,0,2,3,3,0,0,,PROJECT_LIKE
+bbd73c61-30fb-5690-8d52-936c9b5ac588,dataset.csv,test_storage\ML_Project\dataset.csv,2097152,.csv,0,3,6,6,1,2,1,PROJECT_LIKE
+521ad1d9-3f65-5f47-8ba8-3c0de2ac0713,model.ipynb,test_storage\ML_Project\model.ipynb,1048576,.ipynb,0,0,6,6,0,0,,PROJECT_LIKE
+e7f05caa-9486-5e5a-a59e-ae5abffc1aea,final_report.docx,test_storage\ML_Project\College\final_report.docx,1048576,.docx,0,5,3,3,0,0,,GENERAL
+07b7e906-cdc1-5b12-a1bd-6486fd1d0887,notes.txt,test_storage\ML_Project\College\notes.txt,1048576,.txt,0,7,3,3,0,0,,GENERAL
+114c1fc2-1a81-5806-824b-907491c65f81,old_movie.mp4,test_storage\Videos\old_movie.mp4,20971520,.mp4,0,500,0,0,0,0,,VIDEOS
