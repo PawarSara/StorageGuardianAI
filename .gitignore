@@ -33,3 +33,14 @@ secrets.json
 # Temporary files
 *.tmp
 *.log
+
+# Generated CSVs
+files_metadata.csv
+sampled_files.csv
+duplicate_results.csv
+file_activity.csv
+files_features.csv
+files_context_features.csv
+duplicate_context_results.csv
+file_value_results.csv
+final_ml_dataset.csv

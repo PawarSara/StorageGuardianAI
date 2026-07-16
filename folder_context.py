@@ -107,7 +107,7 @@ def detect_folder_type(file_path):
         pass
 
 
-    return "GENERAL"
+    return "CUSTOM_FOLDER"
 
 
 context_records = []
